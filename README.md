@@ -1,0 +1,2 @@
+# AppliedInformatics
+Отработване
